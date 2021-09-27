@@ -1,6 +1,6 @@
 # Gaussian-Smoothing-Python
 
-This file is written in python language. Running this code will require python and PIL library installed in the system.
+This Code is written in python language. Running this code will require python and PIL library installed in the system.
 
 References:
 

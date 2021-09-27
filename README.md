@@ -3,6 +3,7 @@
 This file is written in python language. Running this code will require python and PIL library installed in the system.
 
 References:
+
 [1] https://pillow.readthedocs.io/en/stable/reference/ImageFilter.html#PIL.ImageFilter.GaussianBlur
 
 [2] https://www.geeksforgeeks.org/apply-a-gauss-filter-to-an-image-with-python/

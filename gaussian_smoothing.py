@@ -19,7 +19,7 @@ data_list = [
     data("office_noisy.png",7.74,"Question_3_σ=7.74"),
 ]
 
-# looping on the data_list
+# looping through the data_list
 for d in data_list: 
 
     # Opening the image 
